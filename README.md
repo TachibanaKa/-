@@ -15,5 +15,5 @@
 ### 2、滚动条一直保持在底部
 在js、vue中都用scrollTop保持在底部，uni-app用pageScrollTo
 例子：
-[uni-app：](https://github.com/TachibanaKa/day-day-up/uni-app/scrollToBottom.js)
-[vue：](https://github.com/TachibanaKa/day-day-up/vue/scrollToBottom.js)
+[uni-app写法例子](https://github.com/TachibanaKa/day-day-up/uni-app/scrollToBottom.js)
+[vue写法例子](https://github.com/TachibanaKa/day-day-up/vue/scrollToBottom.js)
