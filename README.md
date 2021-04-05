@@ -15,7 +15,16 @@
 
 ### 2、滚动条一直保持在底部
 在js、vue中都用scrollTop保持在底部，uni-app用pageScrollTo。
-
+如果有图片需要加载，需要在img里加@load="scrollToBottom"
 例子：
 [uni-app写法例子](https://github.com/TachibanaKa/day-day-up/uni-app/scrollToBottom.js)
 [vue写法例子](https://github.com/TachibanaKa/day-day-up/vue/scrollToBottom.js)
+
+### 3、监听浏览器的按钮
+监听浏览器刷新按钮，并在刷新时弹出confirm弹框。
+例子：
+[js写法例子](https://github.com/TachibanaKa/day-day-up/js/refreshConfirm.js)
+
+监听浏览器前进和后退按钮，并禁止多次后退前进。
+例子：
+[js写法例子](https://github.com/TachibanaKa/day-day-up/js/noBack.js)
