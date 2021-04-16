@@ -28,3 +28,12 @@
 监听浏览器前进和后退按钮，并禁止多次后退前进。
 例子：
 [js写法例子](https://github.com/TachibanaKa/day-day-up/js/noBack.js)
+
+### 4、原生js格式化时间
+
+把时间戳转换成可读格式
+[js写法例子](https://github.com/TachibanaKa/day-day-up/js/formatDate.js)
+
+### 5、js的单例模式
+用es6中的class写的一个简单的单例模式
+[js写法例子](https://github.com/TachibanaKa/day-day-up/js/singleton.js)
