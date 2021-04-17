@@ -37,3 +37,7 @@
 ### 5、js的单例模式
 用es6中的class写的一个简单的单例模式
 [js写法例子](https://github.com/TachibanaKa/day-day-up/js/singleton.js)
+
+### 6、js的防抖节流
+防抖和节流的实现
+[js写法例子](https://github.com/TachibanaKa/day-day-up/js/throttle&&debounce.js)
