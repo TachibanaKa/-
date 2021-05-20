@@ -17,27 +17,31 @@
 在js、vue中都用scrollTop保持在底部，uni-app用pageScrollTo。
 如果有图片需要加载，需要在img里加@load="scrollToBottom"
 例子：
-[uni-app写法例子](https://github.com/TachibanaKa/day-day-up/uni-app/scrollToBottom.js)
-[vue写法例子](https://github.com/TachibanaKa/day-day-up/vue/scrollToBottom.js)
+[uni-app写法例子](https://github.com/TachibanaKa/day-day-up/blob/main/uni-app/scrollToBottom.js)
+[vue写法例子](https://github.com/TachibanaKa/day-day-up/blob/main/vue/scrollToBottom.js)
 
 ### 3、监听浏览器的按钮
 监听浏览器刷新按钮，并在刷新时弹出confirm弹框。
 例子：
-[js写法例子](https://github.com/TachibanaKa/day-day-up/js/refreshConfirm.js)
+[js写法例子](https://github.com/TachibanaKa/day-day-up/blob/main/js/refreshConfirm.js)
 
 监听浏览器前进和后退按钮，并禁止多次后退前进。
 例子：
-[js写法例子](https://github.com/TachibanaKa/day-day-up/js/noBack.js)
+[js写法例子](https://github.com/TachibanaKa/day-day-up/blob/main/js/noBack.js)
 
 ### 4、原生js格式化时间
 
 把时间戳转换成可读格式
-[js写法例子](https://github.com/TachibanaKa/day-day-up/js/formatDate.js)
+[js写法例子](https://github.com/TachibanaKa/day-day-up/blob/main/js/formatDate.js)
 
 ### 5、js的单例模式
 用es6中的class写的一个简单的单例模式
-[js写法例子](https://github.com/TachibanaKa/day-day-up/js/singleton.js)
+[js写法例子](https://github.com/TachibanaKa/day-day-up/blob/main/js/singleton.js)
 
 ### 6、js的防抖节流
 防抖和节流的实现
-[js写法例子](https://github.com/TachibanaKa/day-day-up/js/throttle&&debounce.js)
+[js写法例子](https://github.com/TachibanaKa/day-day-up/blob/main/js/throttle&&debounce.js)
+
+### 7、vue封装的组件中prop的默认值
+如果props里有默认值为数组的，就要使用函数把数组包裹起来，否则会报错。
+[vue写法例子](https://github.com/TachibanaKa/day-day-up/blob/main/vue/propsDefaultVal.js)
