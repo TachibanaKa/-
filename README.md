@@ -45,3 +45,7 @@
 ### 7、vue封装的组件中prop的默认值
 如果props里有默认值为数组的，就要使用函数把数组包裹起来，否则会报错。
 [vue写法例子](https://github.com/TachibanaKa/day-day-up/blob/main/vue/propsDefaultVal.js)
+
+### 8、PC端的rem自适应布局
+根据电脑的分辨率自适应布局
+[js写法例子](https://github.com/TachibanaKa/day-day-up/blob/main/js/rem.js)
