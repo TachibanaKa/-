@@ -49,3 +49,7 @@
 ### 8、PC端的rem自适应布局
 根据电脑的分辨率自适应布局
 [js写法例子](https://github.com/TachibanaKa/day-day-up/blob/main/js/rem.js)
+
+### 9、数组去重（包括对象）
+数组元素是基本类型和引用类型的去重
+[js写法例子](https://github.com/TachibanaKa/day-day-up/blob/main/js/arrUniq.js)
