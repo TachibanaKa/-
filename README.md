@@ -53,3 +53,7 @@
 ### 9、数组去重（包括对象）
 数组元素是基本类型和引用类型的去重
 [js写法例子](https://github.com/TachibanaKa/day-day-up/blob/main/js/arrUniq.js)
+
+### 10、获取当天的0点和24点
+格式为new Date()的默认格式
+[js写法例子](https://github.com/TachibanaKa/day-day-up/blob/main/js/dateUtils.js)
