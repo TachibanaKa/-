@@ -57,3 +57,7 @@
 ### 10、获取当天的0点和24点
 格式为new Date()的默认格式
 [js写法例子](https://github.com/TachibanaKa/day-day-up/blob/main/js/dateUtils.js)
+
+### 11、uniapp的H5端点击复制
+复制内容
+[uniapp方法](https://github.com/TachibanaKa/day-day-up/blob/main/uni-app/copy.js)
