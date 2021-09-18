@@ -61,3 +61,7 @@
 ### 11、uniapp的H5端点击复制
 复制内容
 [uniapp方法](https://github.com/TachibanaKa/day-day-up/blob/main/uni-app/copy.js)
+
+### 12、js随机返回字符串
+返回特定长度的字符串
+[js写法例子](https://github.com/TachibanaKa/day-day-up/blob/main/js/randomStr.js)

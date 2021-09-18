@@ -1,7 +1,6 @@
-
 //uniapp的h5端点击复制
 //data为复制的内容
-copy(data) {
+function copy(data) {
   let url = data;
   let oInput = document.createElement('input');
   oInput.value = url;
@@ -15,4 +14,4 @@ copy(data) {
     duration: 2000
   });
   oInput.remove()
-},
+}
