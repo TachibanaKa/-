@@ -60,8 +60,20 @@
 
 ### 11、uniapp的H5端点击复制
 复制内容
-[uniapp方法](https://github.com/TachibanaKa/day-day-up/blob/main/uni-app/copy.js)
+[uniapp写法例子](https://github.com/TachibanaKa/day-day-up/blob/main/uni-app/copy.js)
 
 ### 12、js随机返回字符串
 返回特定长度的字符串
 [js写法例子](https://github.com/TachibanaKa/day-day-up/blob/main/js/randomStr.js)
+
+### 13、uniapp使用微信jssdk
+uniapp做微信公众号或微信小程序时使用jssdk里的功能
+[uniapp写法例子](https://github.com/TachibanaKa/day-day-up/blob/main/uni-app/jssdk.js)
+
+### 14、js判断当前运行环境
+判断当前项目是在什么环境或平台里运行（微信、H5等）
+[js写法例子](https://github.com/TachibanaKa/day-day-up/blob/main/js/isWX.js)
+
+### 15、js判断图片地址是否404
+js判断图片地址是否404
+[js写法例子](https://github.com/TachibanaKa/day-day-up/blob/main/js/isImgUrl.js)
