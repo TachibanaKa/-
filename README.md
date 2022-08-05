@@ -77,3 +77,7 @@ uniapp做微信公众号或微信小程序时使用jssdk里的功能
 ### 15、js判断图片地址是否404
 js判断图片地址是否404
 [js写法例子](https://github.com/TachibanaKa/day-day-up/blob/main/js/isImgUrl.js)
+
+### 16、websocket封装
+原生websocket基础封装
+[js写法例子](https://github.com/TachibanaKa/day-day-up/blob/main/js/socket.js)
